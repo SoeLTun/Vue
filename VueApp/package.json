@@ -1,7 +1,7 @@
 {
-  "name": "client",
+  "name": "vueapp",
   "version": "1.0.0",
-  "description": "Playing with Vue",
+  "description": "A Vue.js project",
   "author": "Soelin Tun <soelintun700@gmail.com>",
   "private": true,
   "scripts": {
